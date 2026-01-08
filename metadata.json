@@ -1,0 +1,8 @@
+{
+  "name": "Company Test",
+  "description": "A modern and aesthetic company profile with an integrated admin dashboard for activity management and visitor analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
